@@ -1,0 +1,11 @@
+Input: Passw0rd! -> Strong Password ✅
+
+Input: weak -> Weak Password ❌
+
+Input: Short1! -> Moderate Password ⚠️
+
+Input: Moderate1 -> Moderate Password ⚠️
+
+Input: N0$pecials -> Strong Password ✅
+
+Caesar Cipher
