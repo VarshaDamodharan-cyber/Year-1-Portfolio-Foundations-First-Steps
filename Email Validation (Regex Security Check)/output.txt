@@ -1,0 +1,7 @@
+$ python email_validate.py
+Enter email: alice@example.com
+Valid Email ✅
+
+$ python email_validate.py
+Enter email: alice@@example..com
+Invalid Email ❌
