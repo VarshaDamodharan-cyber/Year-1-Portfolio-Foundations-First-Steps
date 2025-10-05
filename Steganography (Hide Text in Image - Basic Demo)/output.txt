@@ -1,0 +1,13 @@
+$ python encode_stego.py
+Input image: input.png
+Secret message (text): HELLO
+Converting secret to binary: 0100100001000101010011000100110001001111
+Encoding...
+Message encoded in output.png
+Decoding (if you implement decoder):
+
+yaml
+Copy code
+$ python decode_stego.py
+Decoded binary: 0100100001000101010011000100110001001111
+Decoded text: HELLO
