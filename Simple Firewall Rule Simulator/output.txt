@@ -1,0 +1,5 @@
+$ python firewall_sim.py
+Whitelist: ['192.168.1.10', '127.0.0.1']
+Testing IP: 192.168.1.10  -> ALLOWED ✅
+Testing IP: 10.0.0.5      -> BLOCKED ❌
+Testing IP: 127.0.0.1     -> ALLOWED ✅
