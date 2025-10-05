@@ -1,0 +1,5 @@
+$ python phishing_check.py
+https://secure-login.com@evil.com -> Phishing ⚠️
+https://example.com -> Safe ✅
+http://pay-pal.verify-login.com -> Phishing ⚠️
+http://normal-site.org/account -> Safe ✅
