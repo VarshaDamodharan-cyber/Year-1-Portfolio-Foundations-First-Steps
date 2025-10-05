@@ -1,0 +1,11 @@
+Program (target password is b2 in code):
+
+$ python brute_force_demo.py
+Trying length 1... tried a, b, c, 1, 2, 3
+Trying length 2... aa, ab, ac, a1, a2, a3, ba, bb, ...
+Cracked Password: b2
+
+
+If not found:
+
+Cracked Password: None
